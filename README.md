@@ -27,8 +27,6 @@ For this reason, you should directly install and run the apk file below on your 
 <br>
 
 ## 📌Result
-<img width="291" alt="image" src="https://user-images.githubusercontent.com/63237214/206710919-59dcfc1f-35f4-4a7d-87d9-697178f587f4.png"> <img width="292" alt="image" src="https://user-images.githubusercontent.com/63237214/206710973-ee4bc88c-c522-480b-8cd2-11fee2b471ed.png">
-
 You can put on or take off glasses by clicking the '안경착용하기/벗기' button at the bottom.
 
 
